@@ -28,7 +28,7 @@ with center_col:
 
     En la pagina informes se puede observar los datos y su analisis""")
     
-    imagen2 = Image.open("Media\equilibrio.png")
+    imagen2 = Image.open("media/equilibrio.png")
     st.image(imagen2, use_container_width=True, width=500,
              caption="Imagen tomada de la web.")
     
